@@ -1,0 +1,17 @@
+D:\Raven\PracticeExercise\Phase03\Assisted\Section2 1.18.Tests\bin\Debug\Section2 1.18.Tests.dll
+D:\Raven\PracticeExercise\Phase03\Assisted\Section2 1.18.Tests\bin\Debug\Section2 1.18.Tests.pdb
+D:\Raven\PracticeExercise\Phase03\Assisted\Section2 1.18.Tests\bin\Debug\Castle.Core.dll
+D:\Raven\PracticeExercise\Phase03\Assisted\Section2 1.18.Tests\bin\Debug\Moq.dll
+D:\Raven\PracticeExercise\Phase03\Assisted\Section2 1.18.Tests\bin\Debug\nunit.framework.dll
+D:\Raven\PracticeExercise\Phase03\Assisted\Section2 1.18.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Raven\PracticeExercise\Phase03\Assisted\Section2 1.18.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Raven\PracticeExercise\Phase03\Assisted\Section2 1.18.Tests\bin\Debug\Castle.Core.xml
+D:\Raven\PracticeExercise\Phase03\Assisted\Section2 1.18.Tests\bin\Debug\Moq.xml
+D:\Raven\PracticeExercise\Phase03\Assisted\Section2 1.18.Tests\bin\Debug\nunit.framework.xml
+D:\Raven\PracticeExercise\Phase03\Assisted\Section2 1.18.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Raven\PracticeExercise\Phase03\Assisted\Section2 1.18.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Raven\PracticeExercise\Phase03\Assisted\Section2 1.18.Tests\obj\Debug\Section2 1.18.Tests.csproj.AssemblyReference.cache
+D:\Raven\PracticeExercise\Phase03\Assisted\Section2 1.18.Tests\obj\Debug\Section2 1.18.Tests.csproj.CoreCompileInputs.cache
+D:\Raven\PracticeExercise\Phase03\Assisted\Section2 1.18.Tests\obj\Debug\Section2 1.18.Tests.csproj.CopyComplete
+D:\Raven\PracticeExercise\Phase03\Assisted\Section2 1.18.Tests\obj\Debug\Section2 1.18.Tests.dll
+D:\Raven\PracticeExercise\Phase03\Assisted\Section2 1.18.Tests\obj\Debug\Section2 1.18.Tests.pdb
